@@ -60,6 +60,9 @@
 .box_2 {
 }
 .label {
+  font-family:'MicrosoftSansSerif', 'Microsoft Sans Serif';
+  font-weight:400;
+  font-style:normal;
   font-size:14px;
   text-align:left;
 }
@@ -153,4 +156,6 @@
 }
 .paragraph1 {
   text-align:left;
+}
+.icon {
 }
